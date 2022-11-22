@@ -1,0 +1,24 @@
+Begin Object Class=/Script/Engine.Material Name="Dagger_material"
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.020833,G=0.020833,B=0.020833,A=0.000000)
+      ExpressionGUID=5D42522B47C224B903AD248DB1FC8DD3
+      MaterialExpressionGuid=8F0DB3544A719562A56378995B7FA4F9
+      Material=Material'"Dagger_material"'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'"MaterialExpressionVectorParameter_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   bUsedWithSkeletalMesh=True
+   EditorX=240
+   EditorY=32
+   Expressions(0)=MaterialExpressionVectorParameter'"MaterialExpressionVectorParameter_0"'
+   ParameterGroupData(0)=(GroupName="None")
+   bCanMaskedBeAssumedOpaque=True
+   StateId=AE63D2F04392D90149C7329B3BA546D0
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=B8F5358042FF4CF1D8B525B987D05544
+End Object
